@@ -21,4 +21,9 @@ print('a+b=${a+b}');
 print('a-b=${a-b}');
 print('a*b=${a*b}');
 print('a/b=${a/b}');
+
+// post increment 
+a=10;
+print(a++);
+print(a);
 }
